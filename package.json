@@ -1,0 +1,22 @@
+{
+  "name": "aufbau-example-app",
+  "version": "1.0.0",
+  "description": "An example show the minimum required for an Aufbau app.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkeller/aufbau-example-app.git"
+  },
+  "keywords": [
+    "aufbau"
+  ],
+  "author": "Michael Keller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhkeller/aufbau-example-app/issues"
+  },
+  "homepage": "https://github.com/mhkeller/aufbau-example-app#readme"
+}
