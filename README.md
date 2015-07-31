@@ -13,7 +13,7 @@ A simple [Aufbau](http://github.com/mhkeller/aufbau) app to show how to make app
 }
 ````
 
-If our package lived on npm, you would use normal npm package declaration with the version number.
+If our package lived on npm, you would use normal npm package syntax with the version number.
 
 ````js
 // ... 
@@ -23,7 +23,7 @@ If our package lived on npm, you would use normal npm package declaration with t
 // ...
 ````
 
-We've put an icon at `icons/icon.png`, so we don't have to specify one in our app declaration. If we wanted to override this icon with one we package up with Aufbau, you would put that icon in the Aufbau `icons/` folder and add a value to the app declaration with the file name such as `"icon": "new-icon.png"`.
+We've put an icon at `icons/icon.png`, so we don't have to specify one in our app definition. If we wanted to override this icon with one we package up with Aufbau, you would put that icon in the Aufbau `icons/` folder and add a value to the app definition with the file name such as `"icon": "new-icon.png"`.
 
 ### Testing more complex apps
 
