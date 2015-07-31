@@ -1,13 +1,13 @@
 Aufbau example app
 ==================
 
-A simple [Aufbau](http://github.com/mhkeller/aufbau) app to show how to make app modules. You would include it in your Aufbau `apps.json` list with the following json.
+A simple [Aufbau](http://github.com/ajam/aufbau) app to show how to make app modules. You would include it in your Aufbau `apps.json` list with the following json.
 
 ````js
 {
   "displayName": "Example",
   "package": {
-    "aufbau-example-app": "mhkeller/aufbau-example-app"
+    "aufbau-example-app": "ajam/aufbau-example-app"
   },
   "indexPath": "index.html"
 }

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhkeller/aufbau-example-app.git"
+    "url": "git+https://github.com/ajam/aufbau-example-app.git"
   },
   "keywords": [
     "aufbau"
@@ -16,7 +16,7 @@
   "author": "Michael Keller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mhkeller/aufbau-example-app/issues"
+    "url": "https://github.com/ajam/aufbau-example-app/issues"
   },
-  "homepage": "https://github.com/mhkeller/aufbau-example-app#readme"
+  "homepage": "https://github.com/ajam/aufbau-example-app#readme"
 }
